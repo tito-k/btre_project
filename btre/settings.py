@@ -145,6 +145,6 @@ MESSAGE_TAGS = {
 # Email Config
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = '587'
-EMAIL_HOST_USER='komolafetoyin17@gmail.com'
-EMAIL_HOST_PASSWORD='chodnofsky'
+EMAIL_HOST_USER='komolafetoyin17@gmail.com' #use your email
+EMAIL_HOST_PASSWORD='*************' #use your email password
 EMAIL_USE_TLS=True
